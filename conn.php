@@ -1,8 +1,8 @@
 <?php
 class db{
-    public $hostname='localhost';
-    public $username='root';
-    public $password='';
+    public $hostname='db';
+    public $username='user';
+    public $password='user';
     public $db_name='crud';
     public $conn;
 
